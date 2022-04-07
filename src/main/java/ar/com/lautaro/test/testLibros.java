@@ -47,7 +47,6 @@ public class testLibros {
     }
 
     private static void testDos(List libro) {
-//        List<Libros> libro_a = new ArrayList<>();
         System.out.println("\nLista ordenada por autor:");
         System.out.println("-------------------------------------------\n");
         libro.add(new Libros("J. K. Rowling", "Harry Potter y la piedra filosofal", 15593));
